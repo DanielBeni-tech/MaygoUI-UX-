@@ -1,0 +1,132 @@
+Create a modern premium mobile application UI/UX inspired by the latest futuristic startup apps and high-end interfaces seen on Instagram.
+
+The application must have:
+
+ultra modern UI
+smooth animations
+glassmorphism + neumorphism elements
+minimal but immersive design
+rounded cards
+floating navigation
+gradient backgrounds
+premium typography
+cinematic shadows
+fluid transitions
+clean spacing
+responsive mobile-first layout
+Design Style
+
+The interface should mix:
+
+Apple Human Interface style
+Yango / Uber modern mobility aesthetics
+futuristic fintech app feel
+dark luxury UI
+Gen Z startup visuals
+soft blur effects
+transparent layered components
+dynamic cards
+elegant micro-interactions
+Main Colors
+
+Use a dark modern palette:
+
+deep black
+charcoal gray
+electric purple
+neon blue
+cyan gradients
+subtle white transparency
+
+Accent colors should glow slightly.
+
+UX Requirements
+
+The app must feel:
+
+fast
+fluid
+intuitive
+immersive
+premium
+futuristic
+
+Every screen should have:
+
+animated transitions
+floating action buttons
+smooth scrolling
+gesture-friendly interactions
+modern icons
+bottom navigation bar
+adaptive cards
+loading skeletons
+soft blur overlays
+Screens to Design
+
+Design the complete mobile experience including:
+
+Authentication
+splash screen
+onboarding screens
+login
+signup
+OTP verification
+Home Screen
+modern dashboard
+animated cards
+quick actions
+trending section
+personalized recommendations
+live activity widgets
+Search
+smart search bar
+filters
+categories
+floating suggestions
+Detail Screen
+immersive full-screen design
+large visual hero section
+sticky CTA buttons
+animated transitions
+Profile
+editable profile
+stats cards
+settings
+activity history
+Notifications
+grouped notifications
+modern notification cards
+swipe interactions
+Animations
+
+Use:
+
+Framer Motion animations
+smooth fade transitions
+parallax scrolling
+floating effects
+hover glow effects
+animated gradients
+motion blur transitions
+Technical Stack
+
+Use:
+
+React Native or Flutter
+TailwindCSS style system
+TypeScript
+modular architecture
+reusable components
+clean folder structure
+Additional Requirements
+extremely polished UI
+startup MVP quality
+App Store / Play Store ready
+modern 2026 design trends
+highly aesthetic
+optimized performance
+beautiful empty states
+elegant loading states
+
+The final result should look like a real funded startup product designed by elite UI/UX designers from Apple, Stripe, Linear, Notion, and Yango
